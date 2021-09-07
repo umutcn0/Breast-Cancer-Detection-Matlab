@@ -1,0 +1,2 @@
+YSA= id,teshis,yarıcap_ort,doku_ort,cevre_ort,alan_ort,purusuzluk_ort,kompaktlık_ort,icbukeylık,ıcbukey_puan_ort,simetri_ort,fraktal_boyut_ort,yarıcap_se,doku_se,cevre_se,alan_se,purusuzluk_se,kompaktlık_se,icbükeylik_se,ıcbukey_noktalar_se,simetri_se,fraktal_boyut_se,yarıcap_worst,doku_worst,cevre_worst,alan_worst,purusuzluk_worst,kompaktlık_worst,icbukeylik_worst,ıcbukey_puan_worst,simetri_worst,fraktal_boyut_worst,
+Sonuc= M:Kötü huylu:1 , B:İyi huylu:0
